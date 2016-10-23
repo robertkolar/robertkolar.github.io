@@ -111,7 +111,7 @@ header {
     background-size: cover;
     -o-background-size: cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-image: url('../resources/img/header.jpg');
     text-align: center;
     color: white;
 }
@@ -152,7 +152,7 @@ header .header-content .header-content-inner .social-icons img {
     width: 34px;
 }
 header .header-content .header-content-inner .social-icons img:hover {
-    content: url('../img/hpb_logo_hover.png');
+    content: url('../resources/img/hpb_logo_hover.png');
 }
 #contact {
     font-weight: 100;
