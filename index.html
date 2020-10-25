@@ -56,15 +56,13 @@
                     <p class="section-heading">Let's get in touch</p>
                     <hr class="primary">
                 </div>
-                <div class="col-xs-12 text-center">
-                    <a href="mailto:info@deltavega.net"><i class="fa fa-envelope-o"></i></a>
-                </div>
             </div>
         </div>
     </section>  
     <footer>
-        <p>© 2016-2019 deltavega.net</p>
+        <p>© 2016-<span id="copyrightYear"></span> deltavega.net</p>
     </footer>
+    <script>document.getElementById('copyrightYear').innerHTML = new Date().getFullYear()</script>
 </body>
 
 </html>
