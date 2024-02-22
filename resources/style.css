@@ -152,9 +152,6 @@ header .header-content .header-content-inner .social-icons img {
     height: 34px;
     width: 34px;
 }
-header .header-content .header-content-inner .social-icons img:hover {
-    content: url('../resources/img/hpb_logo_hover.png');
-}
 #contact {
     font-weight: 300;
     color: white;
